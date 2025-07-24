@@ -17,3 +17,5 @@ build/
 .vscode/
 
 Java-Programming/
+
+*.class
