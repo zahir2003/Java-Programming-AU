@@ -16,6 +16,8 @@ build/
 
 .vscode/
 
-Java-Programming/
-
+# Ignore compiled Java class files
 *.class
+
+# Ignore the Java-Programming-AU folder (if needed)
+Java-Programming-AU/
