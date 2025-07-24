@@ -9,7 +9,7 @@
 
 ## 📌 **About**
 
-This repository contains my **Java Programming learning journey**, practical assignments, and problem-solving implementations aligned with the **AU (Anna University) syllabus**. It showcases my understanding of **core Java concepts, object-oriented programming, data structures, algorithms, and practical coding skills**.
+This repository contains my **Java Programming learning journey**, practical assignments, and problem-solving implementations aligned with the **AU (Adamas University) syllabus**. It showcases my understanding of **core Java concepts, object-oriented programming, data structures, algorithms, and practical coding skills**.
 
 ---
 
